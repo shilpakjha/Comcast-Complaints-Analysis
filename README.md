@@ -1,2 +1,2 @@
-# dilans_buisness_analytics
+# dilans_business_analytics
 Dilan Travel Business Data Analysis 
